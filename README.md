@@ -27,4 +27,4 @@ happy hacking!
 (BTW, u can get the exe in Release/ https://github.com/yangyangwithgnu/ruadmin/tree/master/Release/)
 
 papers：
-<<高收益的笨办法：暴破在Windows提权中的应用>> http://www.freebuf.com/articles/system/170709.html
+《高收益的笨办法：暴破在Windows提权中的应用》 http://www.freebuf.com/articles/system/170709.html
