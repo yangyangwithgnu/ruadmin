@@ -1,11 +1,12 @@
-<h1 align="center">能处理姓氏异读的汉字转拼音工具：hanz2piny</h1>
+<div align="center">
+<img src="https://github.com/yangyangwithgnu/ruadmin/blob/master/pic/ascii-art%20logo.png" alt=""/><br>
+</div>
+
+<h1 align="center">are you admin?：ruadmin 给你答案</h1>
 yangyangwithgnu@yeah.net  
 https://yangyangwithgnu.github.io/  
 2016-04-12 12:58:02
 
-
-
-<img src="https://github.com/yangyangwithgnu/ruadmin/blob/master/pic/ascii-art%20logo.png" alt=""/><br>
 
 
 
