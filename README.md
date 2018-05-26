@@ -28,3 +28,4 @@ happy hacking!
 
 papers：
 《高收益的笨办法：暴破在Windows提权中的应用》 http://www.freebuf.com/articles/system/170709.html
+《暴破助功提权：ruadmin》 https://bbs.ichunqiu.com/thread-40877-1-1.html
